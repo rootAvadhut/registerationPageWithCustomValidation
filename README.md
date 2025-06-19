@@ -152,5 +152,3 @@ git add README.md
 git commit -m "Add README.md with project overview"
 git push origin main
 ````
-
-Let me know when it’s live — I’ll check it and help if you'd like to add screenshots or badges too! 🚀
